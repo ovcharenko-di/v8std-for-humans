@@ -11,7 +11,7 @@ repo_name: zeegin/v8std-for-humans
 repo_url: https://github.com/zeegin/v8std-for-humans
 edit_uri: edit/master/docs
 
-copyright: Copyright &copy; 2021 Ingvar Vilkman
+copyright: No Rights Reserved CREATIVE COMMONS CC0
 
 theme:
   name: material
@@ -127,6 +127,6 @@ nav:
       - Организация работы конфигурации:
         - Общие требования к конфигурации: std/std467.md
         - Работа в разных часовых поясах: std/std643.md
-    - Общие вопросы безопасности: 
+   - Общие вопросы безопасности: 
       - Безопасность прикладного программного интерфейса сервера: std/std678.md
   - Помочь: support.md
