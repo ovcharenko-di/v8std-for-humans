@@ -2,4 +2,6 @@
     color: #CDCDCD;
 }
 
-/* https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#embedding-external-files */
+[data-md-color-primary=black] .md-typeset h6 {
+    opacity: .2
+}
